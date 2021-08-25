@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1024px;
+}
+.content{
+    width: 150px;
+    height: 450px;
+    background-color: black;
+    float: left;  
+}
+.main-content{
+    background-color: black;
+    height: 450px;
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    float:left;
+}

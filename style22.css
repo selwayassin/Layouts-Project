@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1024px;
+}
+#main-1{
+    width: 160px;
+    height:200px;
+    background-color: black;
+    clear: both;
+    float: left;
+}
+#main-2{
+    width: 160px;
+    height:200px;
+    background-color: black;
+    margin-left: 20px;
+    float: left;
+}
+#col1{
+    width: 100px;
+    height: 200px;
+    background-color: black;
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    clear: both;
+}
+#col2{
+    width: 100px;
+    height: 200px;
+    background-color: black;
+    margin-left: 20px;
+    float: left;
+    margin-top: 20px;
+}
+#col3{
+    width: 100px;
+    height: 200px;
+    background-color: black;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+

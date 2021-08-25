@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    width: 1024px;
+}
+.side{
+    width: 120px;
+    height: 440px;
+    background-color: black;
+    float: left;
+}
+nav{
+    width: 220px;
+    height: 100px;
+    background-color: black;
+    margin-left: 140px;
+}
+
+.main-content{
+    width: 100px;
+    height: 200px;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+.content{
+    width: 100px;
+    height: 200px;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+footer{
+    width: 220px;
+    height: 100px;
+    background-color: black;
+    margin-top: 240px;
+    margin-left: 140px;
+}
